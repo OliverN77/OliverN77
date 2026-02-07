@@ -22,7 +22,7 @@ Aplicación sencilla para calcular notas finales según criterios definidos, út
 🔗 https://github.com/OliverN77/calculadora-nota
 
 ### 🧠 Thinkel
-Proyecto web enfocado en práctica de desarrollo full-stack y estructura de aplicaciones.  
+Plataforma de blog completa con sistema de autenticación, perfiles de usuario, y funcionalidades sociales. 
 🔗 https://github.com/OliverN77/thinkel
 
 ---
