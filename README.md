@@ -8,9 +8,11 @@
 
 </div>
 
-<!-- ── TYPING SVG (fuente alternativa más estable) ── -->
+<!-- ── TYPING SVG ── -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=B44FFF&center=true&vCenter=true&width=700&height=55&lines=💻+Desarrollador+Web+Full+Stack;🐍+Python+%26+Automatizacion+de+tareas;🌐+HTML+%7C+CSS+%7C+PHP+%7C+MySQL;🔐+Sistemas+con+Login+y+BD;🚀+Siempre+aprendiendo+y+construyendo...;📫+Disponible+para+proyectos+freelance!" alt="Typing SVG" />
+  <a href="https://github.com/OliverN77">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=B44FFF&center=true&vCenter=true&random=false&width=700&height=55&lines=💻+Desarrollador+Web+Full+Stack;🐍+Python+%26+Automatizacion+de+tareas;🌐+HTML+%7C+CSS+%7C+PHP+%7C+MySQL;🔐+Sistemas+con+Login+y+BD;🚀+Siempre+aprendiendo+y+construyendo...;📫+Disponible+para+proyectos+freelance!" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
@@ -68,9 +70,10 @@ open_to:
 ```
 
 </td>
-<td valign="top" align="center" width="45%">
-<br/><br/>
+<td valign="middle" align="center" width="45%">
+<br/>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+<br/>
 </td>
 </tr>
 </table>
@@ -115,7 +118,7 @@ open_to:
 
 **🔧 Herramientas & Entorno**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" alt="tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="tools"/>
 
 </div>
 
@@ -131,13 +134,13 @@ open_to:
 
 <br/>
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=OliverN77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=b44fff&icon_color=7b2fff&text_color=c9d1d9&ring_color=b44fff"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=OliverN77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=b44fff&icon_color=7b2fff&text_color=c9d1d9&ring_color=b44fff&cache_seconds=1800"/>
 &nbsp;&nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverN77&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b44fff&text_color=c9d1d9"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverN77&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=b44fff&text_color=c9d1d9&cache_seconds=1800"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OliverN77&theme=tokyonight&hide_border=true&background=0d1117&stroke=7b2fff&ring=b44fff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=b44fff&sideLabels=b44fff&dates=c9d1d9" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=OliverN77&theme=tokyonight&hide_border=true&background=0d1117&stroke=7b2fff&ring=b44fff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=b44fff&sideLabels=b44fff&dates=c9d1d9" alt="streak"/>
 
 </div>
 
@@ -220,13 +223,37 @@ open_to:
 
 #### 📁 Más proyectos
 
-<a href="https://github.com/OliverN77/SistemaBancario">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OliverN77&repo=SistemaBancario&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b44fff&icon_color=7b2fff&text_color=c9d1d9"/>
-</a>
-&nbsp;
-<a href="https://github.com/OliverN77/calculadora-nota">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=OliverN77&repo=calculadora-nota&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b44fff&icon_color=7b2fff&text_color=c9d1d9"/>
-</a>
+<br/>
+
+<!-- PROYECTO: WEATHER -->
+<div align="center">
+
+#### 🌤️ Weather App
+
+[![Weather Preview](https://raw.githubusercontent.com/OliverN77/OliverN77/main/assets/weather.webp)](https://github.com/OliverN77/Formulario-contacto)
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+[![Ver Repo](https://img.shields.io/badge/🔗%20Ver%20Repositorio-7b2fff?style=flat-square&logo=github&logoColor=white)](https://github.com/OliverN77/Formulario-contacto)
+
+</div>
+
+<br/>
+
+<!-- PROYECTO: CALCULADORA -->
+<div align="center">
+
+#### 🧮 Calculadora de Nota
+
+[![Calculadora Preview](https://raw.githubusercontent.com/OliverN77/OliverN77/main/assets/calculadora.webp)](https://github.com/OliverN77/calculadora-nota)
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+[![Ver Repo](https://img.shields.io/badge/🔗%20Ver%20Repositorio-7b2fff?style=flat-square&logo=github&logoColor=white)](https://github.com/OliverN77/calculadora-nota)
+
+</div>
 
 </div>
 
