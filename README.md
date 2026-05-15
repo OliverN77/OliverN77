@@ -8,12 +8,9 @@
 
 </div>
 
-<!-- ── TYPING SVG ── -->
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=B44FFF&center=true&vCenter=true&random=false&width=700&height=55&lines=💻+Desarrollador+Web+Full+Stack;🐍+Python+%26+Automatizacion+de+tareas;🌐+HTML+%7C+CSS+%7C+PHP+%7C+MySQL;🔐+Sistemas+con+Login+y+BD;🚀+Siempre+aprendiendo+y+construyendo...;📫+Disponible+para+proyectos+freelance!" alt="Typing SVG" />
 
-</div>
 
 <br/>
 
