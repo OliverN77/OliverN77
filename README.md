@@ -1,151 +1,304 @@
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   HEADER ANIMADO                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:00d2ff&height=200&section=header&text=Oliver%20Nieto&fontSize=60&fontAlignY=38&desc=Web%20Developer%20%7C%20Python%20Programmer&descAlignY=60&descAlign=50&fontColor=00d2ff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d62,60:00d2ff,100:00ff88&height=220&section=header&text=Oliver%20Nieto&fontSize=65&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20%7C%20Python%20Enthusiast&descAlignY=62&descAlign=50&fontColor=ffffff&descColor=00d2ff&animation=fadeIn&stroke=00d2ff&strokeWidth=2"/>
 
-<!-- Typing Animation -->
-<a href="https://github.com/OliverN77">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=💻+Desarrollador+Web+Full+Stack;🐍+Python+%26+Automatización;🌐+HTML+%7C+CSS+%7C+PHP+%7C+SQL;🚀+Construyendo+el+futuro+digital;📫+Disponible+para+proyectos+freelance" alt="Typing SVG" />
-</a>
+</div>
+
+<!-- Typing SVG -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00D2FF&center=true&vCenter=true&width=700&height=60&lines=💻+Desarrollador+Web+Full+Stack;🐍+Python+%26+Automatización+de+tareas;🌐+HTML+%7C+CSS+%7C+PHP+%7C+MySQL;🔐+Sistemas+con+Login+y+BD;🚀+Siempre+aprendiendo+y+construyendo...;📫+Disponible+para+proyectos+freelance!" alt="Typing SVG" />
+</div>
 
 <br/>
 
-<!-- Social Badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-OliverN77-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OliverN77)
-[![Email](https://img.shields.io/badge/Email-olivernie2626%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olivernie2626@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=OliverN77&style=for-the-badge&color=00d2ff&label=VISITAS+AL+PERFIL)](https://github.com/OliverN77)
+<!-- Badges sociales -->
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/OliverN77?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=00d2ff)](https://github.com/OliverN77)
+[![Profile Views](https://komarev.com/ghpvc/?username=OliverN77&style=for-the-badge&color=00d2ff&labelColor=0d1117&label=VISITAS)](https://github.com/OliverN77)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olivernie2626@gmail.com)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mí
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   ABOUT ME - CÓDIGO ESTILO                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-```python
-class Oliver:
-    nombre     = "Oliver Nieto"
-    usuario    = "@OliverN77"
-    ubicacion  = "🌎 Colombia"
-    rol        = "Desarrollador Web & Programador Python"
-    
-    habilidades = {
-        "frontend" : ["HTML", "CSS", "JavaScript"],
-        "backend"  : ["PHP", "Python"],
-        "database" : ["MySQL", "SQL"],
-        "otros"    : ["Automatización", "Scripts", "Sistemas con Login"]
-    }
-    
-    disponible_para = ["Proyectos Freelance", "Trabajo Remoto", "Colaboraciones"]
-    
-    def saludo(self):
-        return "¡Hola! Bienvenido a mi perfil 🚀"
+<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-yo = Oliver()
-print(yo.saludo())
+### 👨‍💻 `whoami`
+
+```yaml
+name: Oliver Nieto
+alias: OliverN77
+location: 🌎 Colombia
+role: Full Stack Web Developer & Python Dev
+
+skills:
+  frontend:  [ HTML, CSS, JavaScript ]
+  backend:   [ PHP, Python ]
+  database:  [ MySQL, SQL ]
+  tools:     [ Git, GitHub, VSCode ]
+  extra:     [ Automatización, Scripts ]
+
+currently:
+  - 🔭 Trabajando en proyectos web personales
+  - 🌱 Aprendiendo nuevas tecnologías
+  - 💬 Pregúntame sobre web dev & Python
+  - ⚡ Fun fact: el café es mi compilador ☕
+
+open_to:
+  - Proyectos freelance
+  - Trabajo remoto
+  - Colaboraciones open source
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🛠️ Stack Tecnológico
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              TROPHIES                                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🏆 Trofeos GitHub
 
-### ⚙️ Backend & Bases de Datos
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://github-profile-trophy.vercel.app/?username=OliverN77&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies"/>
 
 </div>
 
 ---
 
-## 🚀 Proyectos Destacados
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              TECH STACK - ANIMADO CON ICONOS              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-| 🏆 Proyecto | 📝 Descripción | 🔗 Link |
-|:-----------:|:---------------:|:-------:|
-| 🧠 **Thinkel** | Plataforma de blog con autenticación, perfiles y funciones sociales | [![Repo](https://img.shields.io/badge/Ver%20Repo-181717?style=flat-square&logo=github)](https://github.com/OliverN77/thinkel) |
-| 🛒 **Store** | Sistema web tipo tienda con gestión de productos para usuarios | [![Repo](https://img.shields.io/badge/Ver%20Repo-181717?style=flat-square&logo=github)](https://github.com/OliverN77/store) |
-| 🧾 **Store Management** | Sistema de gestión de inventario y control interno de tienda | [![Repo](https://img.shields.io/badge/Ver%20Repo-181717?style=flat-square&logo=github)](https://github.com/OliverN77/store-management) |
-| 🏦 **Sistema Bancario** | Sistema bancario web con funcionalidades completas | [![Repo](https://img.shields.io/badge/Ver%20Repo-181717?style=flat-square&logo=github)](https://github.com/OliverN77/SistemaBancario) |
-| 🧮 **Calculadora de Nota** | App para calcular notas finales según criterios personalizados | [![Repo](https://img.shields.io/badge/Ver%20Repo-181717?style=flat-square&logo=github)](https://github.com/OliverN77/calculadora-nota) |
+### 🛠️ Mi Stack Tecnológico
+
+<br/>
+
+**🎨 Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="frontend skills"/>
+
+<br/><br/>
+
+**⚙️ Backend & Bases de Datos**
+
+<img src="https://skillicons.dev/icons?i=php,python,mysql&theme=dark" alt="backend skills"/>
+
+<br/><br/>
+
+**🔧 Herramientas & Entorno**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="tools"/>
 
 </div>
 
 ---
 
-## 📊 Estadísticas de GitHub
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              ESTADÍSTICAS                                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OliverN77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverN77&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=ffffff"/>
+### 📊 Estadísticas de GitHub
 
-</div>
+<br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OliverN77&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d2ff&ring=00d2ff&fire=ff6b6b&currStreakLabel=00d2ff" alt="GitHub Streak"/>
-</div>
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=OliverN77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00ff88&text_color=c9d1d9&ring_color=00d2ff"/>
+&nbsp;&nbsp;
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverN77&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9"/>
 
----
+<br/>
 
-## 🎯 En qué puedo ayudarte
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                    🌟 MIS SERVICIOS 🌟                    ║
-╠═══════════════════════════════════════════════════════════╣
-║  🌐  Creación de páginas web desde cero                   ║
-║  🔐  Sistemas web con login y base de datos               ║
-║  🤖  Automatización de tareas con Python                  ║
-║  🛒  Plataformas de e-commerce y tiendas                  ║
-║  🧩  Soluciones web prácticas y funcionales               ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OliverN77&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d2ff&ring=00ff88&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d2ff&sideLabels=00d2ff&dates=c9d1d9" alt="streak stats"/>
 
 </div>
 
 ---
 
-## 🐍 Actividad de Contribuciones
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              PROYECTOS DESTACADOS                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OliverN77&bg_color=0d1117&color=00d2ff&line=00d2ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+
+### 🚀 Proyectos Destacados
+
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://github.com/OliverN77/thinkel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OliverN77&repo=thinkel&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00ff88&text_color=c9d1d9" />
+</a>
+&nbsp;
+<a href="https://github.com/OliverN77/SistemaBancario">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OliverN77&repo=SistemaBancario&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00ff88&text_color=c9d1d9" />
+</a>
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://github.com/OliverN77/store">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OliverN77&repo=store&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00ff88&text_color=c9d1d9" />
+</a>
+&nbsp;
+<a href="https://github.com/OliverN77/store-management">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OliverN77&repo=store-management&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00ff88&text_color=c9d1d9" />
+</a>
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://github.com/OliverN77/Login">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OliverN77&repo=Login&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00ff88&text_color=c9d1d9" />
+</a>
+&nbsp;
+<a href="https://github.com/OliverN77/calculadora-nota">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OliverN77&repo=calculadora-nota&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00ff88&text_color=c9d1d9" />
+</a>
 </div>
 
 ---
 
-## 📬 ¡Hablemos!
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              ACTIVIDAD - GRÁFICA                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-¿Tienes un proyecto en mente? ¡Me encantaría escucharte!
+### 📈 Actividad de Contribuciones
 
-[![Enviar Email](https://img.shields.io/badge/📧%20Enviar%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olivernie2626@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Oliver,%20vi%20tu%20perfil%20y%20me%20gustar%C3%ADa%20hablar%20contigo.)
-[![Ver Repositorios](https://img.shields.io/badge/📁%20Ver%20Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OliverN77?tab=repositories)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OliverN77&bg_color=0d1117&color=00d2ff&line=00ff88&point=ffffff&area=true&hide_border=true&area_color=00d2ff" alt="activity graph" width="100%"/>
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--   SNAKE ANIMATION — requiere GitHub Action (ver abajo)   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:0d1117&height=120&section=footer"/>
+### 🐍 La serpiente devora mis contribuciones...
 
-*⭐ Si alguno de mis proyectos te fue útil, ¡no olvides dejar una estrella!*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OliverN77/OliverN77/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OliverN77/OliverN77/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/OliverN77/OliverN77/output/github-snake.svg" />
+</picture>
 
 </div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              QUOTE ALEATORIO DEV                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 💬 Frase Dev del Día
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              SERVICIOS / QUÉ PUEDO HACER                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🎯 ¿En qué puedo ayudarte?
+
+| 🌐 Web desde cero | 🔐 Login & BD | 🤖 Automatización | 🛒 E-commerce | 🧩 Scripts Python |
+|:-----------------:|:-------------:|:-----------------:|:-------------:|:-----------------:|
+| Páginas completas | Sistemas seguros | Tareas con Python | Tiendas online | Soluciones rápidas |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              CONTACTO                                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 📬 ¡Conectemos!
+
+<a href="mailto:olivernie2626@gmail.com?subject=Hola%20Oliver!&body=Vi%20tu%20perfil%20en%20GitHub%20y%20me%20gustar%C3%ADa%20hablar%20contigo.">
+  <img src="https://img.shields.io/badge/Gmail-Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/OliverN77?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Ver%20mis%20Repos-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+*⭐ Si algún proyecto te fue útil, ¡deja una estrella! Significa mucho.*
+
+</div>
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00d2ff,100:0d1117&height=130&section=footer"/>
+
+---
+
+<!--
+╔══════════════════════════════════════════════════════════════════╗
+║      🐍 CÓMO ACTIVAR LA ANIMACIÓN DE LA SERPIENTE               ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  1. Ve a tu repo OliverN77 → pestaña "Actions"                   ║
+║  2. "New workflow" → "set up a workflow yourself"                 ║
+║  3. Nombra el archivo: snake.yml                                 ║
+║  4. Pega este contenido:                                         ║
+║                                                                  ║
+║  name: Generate Snake Animation                                  ║
+║  on:                                                             ║
+║    schedule:                                                     ║
+║      - cron: "0 */12 * * *"                                      ║
+║    workflow_dispatch:                                            ║
+║  jobs:                                                           ║
+║    generate:                                                     ║
+║      runs-on: ubuntu-latest                                      ║
+║      steps:                                                      ║
+║        - uses: Platane/snk@v3                                    ║
+║          with:                                                   ║
+║            github_user_name: OliverN77                          ║
+║            outputs: |                                            ║
+║              dist/github-snake.svg                               ║
+║              dist/github-snake-dark.svg?palette=github-dark      ║
+║        - uses: crazy-max/ghaction-github-pages@v3.1.0            ║
+║          with:                                                   ║
+║            target_branch: output                                 ║
+║            build_dir: dist                                       ║
+║          env:                                                    ║
+║            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}             ║
+║                                                                  ║
+║  5. Guarda y ejecuta el workflow manualmente la primera vez      ║
+║  6. ¡La serpiente aparecerá en tu perfil! 🐍✅                   ║
+╚══════════════════════════════════════════════════════════════════╝
+-->
