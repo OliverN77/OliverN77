@@ -118,7 +118,7 @@ open_to:
 
 **🔧 Herramientas & Entorno**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" alt="tools"/>
 
 </div>
 
@@ -168,8 +168,9 @@ open_to:
 > El espacio donde la inteligencia artificial y el aprendizaje se unen para potenciar tu conocimiento.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 [![Ver Repo](https://img.shields.io/badge/🔗%20Ver%20Repositorio-7b2fff?style=flat-square&logo=github&logoColor=white)](https://github.com/OliverN77/thinkel)
 
 </div>
@@ -190,6 +191,7 @@ open_to:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![Ver Repo](https://img.shields.io/badge/🔗%20Ver%20Repositorio-7b2fff?style=flat-square&logo=github&logoColor=white)](https://github.com/OliverN77/store)
 
 </div>
@@ -207,9 +209,9 @@ open_to:
 
 > Sistema de gestión con acceso seguro por código, control de inventario y administración interna completa.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 [![Ver Repo](https://img.shields.io/badge/🔗%20Ver%20Repositorio-7b2fff?style=flat-square&logo=github&logoColor=white)](https://github.com/OliverN77/store-management)
 
 </div>
@@ -230,12 +232,12 @@ open_to:
 
 #### 🌤️ Weather App
 
-[![Weather Preview](https://raw.githubusercontent.com/OliverN77/OliverN77/main/assets/weather.webp)](https://github.com/OliverN77/Formulario-contacto)
+[![Weather Preview](https://raw.githubusercontent.com/OliverN77/OliverN77/main/assets/weather.webp)](https://github.com/OliverN77/wheater-app)
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-[![Ver Repo](https://img.shields.io/badge/🔗%20Ver%20Repositorio-7b2fff?style=flat-square&logo=github&logoColor=white)](https://github.com/OliverN77/Formulario-contacto)
+[![Ver Repo](https://img.shields.io/badge/🔗%20Ver%20Repositorio-7b2fff?style=flat-square&logo=github&logoColor=white)](https://github.com/OliverN77/wheater-app)
 
 </div>
 
@@ -248,9 +250,8 @@ open_to:
 
 [![Calculadora Preview](https://raw.githubusercontent.com/OliverN77/OliverN77/main/assets/calculadora.webp)](https://github.com/OliverN77/calculadora-nota)
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 [![Ver Repo](https://img.shields.io/badge/🔗%20Ver%20Repositorio-7b2fff?style=flat-square&logo=github&logoColor=white)](https://github.com/OliverN77/calculadora-nota)
 
 </div>
