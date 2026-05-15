@@ -143,7 +143,7 @@ open_to:
 
 <div align="center">
 <a href="https://github.com/OliverN77/thinkel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OliverN77&repo=thinkel&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=00ff88&text_color=c9d1d9" />
+  <img align="center" src="/_next/image?url=%2Fstore-management.png&w=3840&q=75" />
 </a>
 &nbsp;
 <a href="https://github.com/OliverN77/SistemaBancario">
