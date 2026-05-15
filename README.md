@@ -101,7 +101,7 @@ open_to:
 
 **🔧 Herramientas & Entorno**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" alt="tools"/>
 
 </div>
 
